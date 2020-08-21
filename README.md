@@ -20,5 +20,6 @@ https://stackoverflow.com/questions/2400482/how-do-i-make-a-div-button-submit-th
 
 See a demo here:
 
-https://florincatalin.000webhostapp.com/demo/ripplebutton/
+~~https://florincatalin.000webhostapp.com/demo/ripplebutton/~~
 
+http://florincatalin.freesite.vip/demo/ripplebutton
